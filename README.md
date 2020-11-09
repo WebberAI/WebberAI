@@ -1,16 +1,15 @@
-### Hi there 👋
+# Cristian Benck Webber
+Engenheiro Mecânico
 
-<!--
-**WebberAI/WebberAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(Em construção)
 
-Here are some ideas to get you started:
+[Linkedin](https://www.linkedin.com/in/cristianwebber/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me 
+[Disciplinas cursadas na Graduação](https://github.com/WebberAI/Info/blob/main/Disciplinas%20UCS.ipynb)  
+
+Projetos:
+[XX](XX)
+
+Programas básicos:
+[XX](XX)
