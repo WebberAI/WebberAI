@@ -1,15 +1,15 @@
 # Cristian Benck Webber
-Engenheiro Mecânico
+Mechanical Engineer
 
-(Em construção)
+(in construction)
 
 [Linkedin](https://www.linkedin.com/in/cristianwebber/)
 
 ### About me 
-[Disciplinas cursadas na Graduação](https://github.com/WebberAI/Info/blob/main/Disciplinas%20UCS.ipynb)  
+[Graduation Subjects - In portuguese](https://github.com/WebberAI/Info/blob/main/Disciplinas%20UCS.ipynb)  
 
-Projetos:
+Projects:
+[Telegram Bot for B3 stock prices](https://github.com/cristianwebber/b3-stocks-telegram-bot)
 [XX](XX)
 
-Programas básicos:
-[XX](XX)
+
