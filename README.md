@@ -19,7 +19,7 @@ Learning Data Science and Machine Learning.
 
 [Black-Scholes](https://github.com/cristianwebber/Finance/blob/main/Black-Scholes-Basic.ipynb)
 
-[DataScience (JupyterNotebooks - In construction)](https://github.com/cristianwebber/DataScience)
+[DataScience and Machine Learning (JupyterNotebooks - In construction)](https://github.com/cristianwebber/DataScience)
 
 ### A website created with Django(back-end) and ReactJS(front-end)
 [Demo of website](https://rater-app-cw.web.app)
