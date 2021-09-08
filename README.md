@@ -1,11 +1,10 @@
 # Cristian Benck Webber
-Mechanical Engineer.
+Data Engineer | Mechanical Engineer
+Working with Python. SQL, Git, ETL/ELT tools and Airflow.
+Currently studying Infra with Terraform and Kubernetes, FastApi and Javascript.
 
 Industry 4.0 and Finance enthusiast.
 
-Learning Data Science and Machine Learning.
-
-(in construction)
 
 [Linkedin](https://www.linkedin.com/in/cristianwebber/)
 
